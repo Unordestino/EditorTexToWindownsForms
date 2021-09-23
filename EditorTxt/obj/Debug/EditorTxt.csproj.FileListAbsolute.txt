@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\EditorTxt\EditorTxt\bin\Debug\EditorTxt.exe.config
+C:\Users\David\source\repos\EditorTxt\EditorTxt\bin\Debug\EditorTxt.exe
+C:\Users\David\source\repos\EditorTxt\EditorTxt\bin\Debug\EditorTxt.pdb
+C:\Users\David\source\repos\EditorTxt\EditorTxt\obj\Debug\EditorTxt.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\EditorTxt\EditorTxt\obj\Debug\EditorTxt.Form1.resources
+C:\Users\David\source\repos\EditorTxt\EditorTxt\obj\Debug\EditorTxt.Properties.Resources.resources
+C:\Users\David\source\repos\EditorTxt\EditorTxt\obj\Debug\EditorTxt.csproj.GenerateResource.cache
+C:\Users\David\source\repos\EditorTxt\EditorTxt\obj\Debug\EditorTxt.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\EditorTxt\EditorTxt\obj\Debug\EditorTxt.exe
+C:\Users\David\source\repos\EditorTxt\EditorTxt\obj\Debug\EditorTxt.pdb
